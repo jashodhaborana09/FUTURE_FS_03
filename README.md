@@ -54,7 +54,7 @@ The website is fully responsive and optimized for:
 
 ## 🔗 Live Demo
 
-👉 **Live Website:** *(Add Netlify link here)*  
+👉 **Live Website:** https://salon-website-ten-tau.vercel.app/
 👉 **GitHub Repository:** https://github.com/jashodhaborana09/FUTURE_FS_03.git
 
 ---
