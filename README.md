@@ -55,7 +55,7 @@ The website is fully responsive and optimized for:
 ## 🔗 Live Demo
 
 👉 **Live Website:** *(Add Netlify link here)*  
-👉 **GitHub Repository:** *(This repository)*
+👉 **GitHub Repository:** https://github.com/jashodhaborana09/FUTURE_FS_03.git
 
 ---
 
